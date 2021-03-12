@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pool VMS</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="Admin_Name">admin</string>
+    <string name="Admin_Pass">admin</string>
+    <string name="Admin_info">Information</string>
+
+</resources>
